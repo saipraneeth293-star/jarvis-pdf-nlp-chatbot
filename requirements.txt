@@ -1,9 +1,2 @@
-torch
-torchvision
-transformers
-huggingface_hub
-nltk
-spacystreamlit>=1.40,<2
-pypdf>=5,<7
-scikit-learn>=1.6,<2
-numpy>=1.26,<3
+streamlit
+pypdf
